@@ -10,12 +10,12 @@ addition(4,5)
 end
 
 def subtraction(num1, num2)
-subtraction(15)0-
  puts differance
  difference=5
 
 
 end
+subtraction(10,5)
 
 def division(num1, num2)
 division(50/2)
