@@ -40,9 +40,9 @@ end
 
 def modulo(num1, num2)
 
-
-p remainder
 remainder=4
+p remainder
+
 
 end
 modulo(34/5)
