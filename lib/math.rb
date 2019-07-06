@@ -17,7 +17,7 @@ end
 
 def division(num1, num2)
 division(50/2)
-puts result=25
+puts =25
 result=
 
 
