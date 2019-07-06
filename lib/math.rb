@@ -17,8 +17,8 @@ end
 
 def division(num1, num2)
 division(50/2)
-puts otient=25
-result=
+puts qotient
+qotient=25
 
 
 end
@@ -26,8 +26,8 @@ end
 def multiplication(num1, num2)
 
 multiplication(4,30)
-p result
-result=120
+p product
+product=120
 
 end
 
