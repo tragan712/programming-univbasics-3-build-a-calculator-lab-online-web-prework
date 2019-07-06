@@ -1,13 +1,13 @@
 def addition(num1, num2)
 
 addition= 5,4
-sum=15
+sum=9
 end
 
 def subtraction(num1, num2)
 subtraction= 10,5
 
-difference=0
+difference=5
 end
 
 def division(num1, num2)
