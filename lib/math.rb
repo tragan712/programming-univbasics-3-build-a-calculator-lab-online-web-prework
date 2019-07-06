@@ -1,6 +1,6 @@
 def addition(num1, num2)
 addition =(5+4)
-+.class
++class
 
 sum=9
 puts sum
