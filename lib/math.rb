@@ -49,8 +49,9 @@ end
 modulo(34,5)
 
 def square_root(num)
-Math.sqrt(81)
- p square_root(9)
+
+ 
+ p square_root
 
 
 
