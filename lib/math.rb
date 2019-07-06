@@ -19,7 +19,7 @@ end
 def multiplication(num1, num2)
 multiplication= 5,5
 
-
+p 25
 end
 
 def modulo(num1, num2)
