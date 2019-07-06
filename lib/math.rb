@@ -1,9 +1,9 @@
 def addition(num1, num2)
-(5+4)
-Math.class
 
-sum9
-puts sum
+Math.class(5+4)
+
+
+
 
 
 
