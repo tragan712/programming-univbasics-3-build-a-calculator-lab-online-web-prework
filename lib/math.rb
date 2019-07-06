@@ -42,7 +42,7 @@ end
 
 def square_root(num)
 
-(5,4)
+square_root(5,4)
 puts result
 result=9
 
