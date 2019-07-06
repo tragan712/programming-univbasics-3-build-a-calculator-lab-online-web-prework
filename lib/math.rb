@@ -4,9 +4,9 @@ puts sum
 sum=9
 
 
-
-end
 5+4=9
+end
+
 def subtraction(num1, num2)
 subtraction(10,5)
  assert_difference=5
