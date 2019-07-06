@@ -35,7 +35,7 @@ square_root(9)
 Math.sqrt
 
 end
-# Add your variables here
+
 difference=0
 sum=2
 product=1
