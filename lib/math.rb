@@ -5,7 +5,7 @@ sum=9
 end
 
 def subtraction(num1, num2)
-subtraction= Math.sub(10-5)
+subtraction= 
 
 difference=5
 end
