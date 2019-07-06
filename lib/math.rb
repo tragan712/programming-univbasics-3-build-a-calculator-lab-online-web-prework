@@ -1,7 +1,7 @@
 def addition(num1, num2)
 addition =(5,4)
-puts result
-result=9
+puts sum
+sum=9
 
 
 
@@ -44,7 +44,7 @@ def square_root(num)
 
 square_root(81)
 
- p result=9
+  result=9
 
 end
 
