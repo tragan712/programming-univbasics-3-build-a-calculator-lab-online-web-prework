@@ -8,7 +8,7 @@ result=9
 end
 
 def subtraction(num1, num2)
-
+subtraction(
 puts result
 result=9
 
@@ -16,33 +16,33 @@ result=9
 end
 
 def division(num1, num2)
-division(num1, num2)
+division
 puts result
-result=9
+result=
 
 
 end
 
 def multiplication(num1, num2)
 
-multiplication(num1, num2)
+multiplication
 puts result
-result=9
+result=
 
 end
 
 def modulo(num1, num2)
 
-modulo(num1, num2)
+modulo
 puts result
-result=9
+result=
 
 
 end
 
 def square_root(num)
 
-square_root(5,4)
+square_root(81)
 puts result
 result=9
 
