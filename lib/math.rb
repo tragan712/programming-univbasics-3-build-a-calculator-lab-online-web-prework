@@ -9,14 +9,15 @@ end
 
 def subtraction(num1, num2)
 subtraction(10,5)
- assert_difference=5
+ puts differance
+ difference=5
 
 
 end
 
 def division(num1, num2)
 division(50/2)
-p result=25
+puts result=25
 result=
 
 
