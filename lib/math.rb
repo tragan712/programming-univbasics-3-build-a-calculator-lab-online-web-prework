@@ -24,20 +24,18 @@ end
 
 def modulo(num1, num2)
 modulo=(9,2)
-first_number=9
-second_number=2
 
+quotient=1
 
 end
 
 def square_root(num)
-square_root(9)
-Math.sqrt
+square_root(81)
+Math.sqrt(9)
 
 end
 
 
-sum=2
 
-quotient=1
-end
+
+
