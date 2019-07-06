@@ -1,7 +1,7 @@
-def addition(num1+num2)
-
-Math.class(5+4=9)
-
+def addition(num1,num2)
+  puts sum
+def sum
+  
 
 
 
