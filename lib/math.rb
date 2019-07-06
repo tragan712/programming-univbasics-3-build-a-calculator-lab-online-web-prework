@@ -40,13 +40,12 @@ end
 
 def modulo(num1, num2)
 
-modulo(34/5)
+
 p remainder
 remainder=4
 
-
 end
-
+modulo(34/5)
 def square_root(num)
 Math.sqrt(81)
  p square_root(9)
