@@ -37,7 +37,7 @@ p product
 
 
 end
-multiplication(4,30)
+multiplication(3,30)
 
 def modulo(num1, num2)
 
