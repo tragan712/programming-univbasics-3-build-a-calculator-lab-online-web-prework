@@ -1,12 +1,12 @@
 def addition(num1, num2)
-addition =(5+4)
+addition =(5,4)
 puts sum
 sum=9
 
 
 
 end
-
+5+4=9
 def subtraction(num1, num2)
 subtraction(10,5)
  assert_difference=5
