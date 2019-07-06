@@ -37,7 +37,7 @@ p product
 
 
 end
-multiplication(4*30)
+multiplication(4,30)
 def modulo(num1, num2)
 
 remainder=4
@@ -45,7 +45,7 @@ p remainder
 
 
 end
-modulo(34/5)
+modulo(34,5)
 def square_root(num)
 Math.sqrt(81)
  p square_root(9)
