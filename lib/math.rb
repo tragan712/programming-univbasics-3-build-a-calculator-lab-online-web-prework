@@ -10,7 +10,7 @@ end
 def subtraction(num1, num2)
 subtraction(
 puts result
-result=9
+result=
 
 
 end
