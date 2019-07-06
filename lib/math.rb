@@ -43,7 +43,8 @@ end
 def square_root(num)
 
 square_root(81)
-puts result
+
+ result
 result=9
 
 end
