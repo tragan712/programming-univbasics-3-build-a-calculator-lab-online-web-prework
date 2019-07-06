@@ -1,5 +1,5 @@
 def addition(num1, num2)
-addition =Math.+(5,4)
+addition =(5,4)
 puts result
 result=9
 
@@ -8,9 +8,9 @@ result=9
 end
 
 def subtraction(num1, num2)
-subtraction(
+subtraction(10,5)
 puts result
-result=
+result=5
 
 
 end
