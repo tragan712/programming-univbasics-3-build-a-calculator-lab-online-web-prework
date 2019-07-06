@@ -32,7 +32,7 @@ division(50,2)
 def multiplication(num1, num2)
 
 
-product=120
+product=90
 p product
 
 
