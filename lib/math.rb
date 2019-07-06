@@ -35,7 +35,7 @@ def modulo(num1, num2)
 
 modulo(34,5)
 p remainder
-=4
+remainder=4
 
 
 end
@@ -44,7 +44,7 @@ def square_root(num)
 
 square_root(81)
 
-  result=9
+=9
 
 end
 
