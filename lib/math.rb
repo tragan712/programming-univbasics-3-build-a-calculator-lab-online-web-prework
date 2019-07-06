@@ -34,7 +34,7 @@ end
 def modulo(num1, num2)
 
 modulo(34,5)
-p result
+p 
 result=4
 
 
