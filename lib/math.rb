@@ -19,10 +19,10 @@ end
 subtraction(10,5)
 
 def division(num1, num2)
-
+qotient=25
 puts qotient
 
-qotient=25
+
 
 
 end
