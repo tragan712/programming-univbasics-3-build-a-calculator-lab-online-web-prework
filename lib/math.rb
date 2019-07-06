@@ -33,7 +33,7 @@ end
 
 def modulo(num1, num2)
 
-modulo
+modulo(34,5)
 puts result
 result=
 
