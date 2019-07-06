@@ -26,7 +26,7 @@ end
 def multiplication(num1, num2)
 
 multiplication(4*30)
-4*30=120
+1204*30=
 p product
 product=120
 
