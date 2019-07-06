@@ -8,7 +8,7 @@ sum=9
 end
 
 def subtraction(num1, num2)
-subtraction(10,5)
+subtraction(10-5)
  puts differance
  difference=5
 
@@ -25,7 +25,7 @@ end
 
 def multiplication(num1, num2)
 
-multiplication(4,30)
+multiplication(4*30)
 p product
 product=120
 
@@ -33,7 +33,7 @@ end
 
 def modulo(num1, num2)
 
-modulo(34,5)
+modulo(34/5)
 p remainder
 remainder=4
 
