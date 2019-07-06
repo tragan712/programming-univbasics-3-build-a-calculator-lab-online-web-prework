@@ -44,10 +44,10 @@ remainder=4
 end
 
 def square_root(num)
+Math.sqrt(81)
+square_root(9)
 
-square_root(81)
 
-Math.sqrt()
 
 end
 
