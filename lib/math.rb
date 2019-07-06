@@ -1,6 +1,7 @@
 def addition(num1, num2)
 puts result
-result=
+result=9
+5+4=9
 
 
 end
