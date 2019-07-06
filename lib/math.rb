@@ -27,7 +27,7 @@ puts qotient
 
 end
 
-division(50/2)
+division(50,2)
 
 def multiplication(num1, num2)
 
