@@ -31,13 +31,13 @@ division(50/2)
 
 def multiplication(num1, num2)
 
-multiplication(4*30)
+(4*30)
 product=120
 p product
 
 
 end
-
+multiplication
 def modulo(num1, num2)
 
 remainder=4
