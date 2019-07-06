@@ -25,9 +25,9 @@ end
 
 def multiplication(num1, num2)
 
-multiplication
+multiplication(4,30)
 puts result
-result=
+result=120
 
 end
 
