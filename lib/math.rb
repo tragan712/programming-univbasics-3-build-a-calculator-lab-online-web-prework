@@ -11,9 +11,9 @@ addition(4,5)
 
 
 def subtraction(num1, num2)
- puts difference
- difference=5
 
+ difference=5
+ puts difference
 
 end
 subtraction(10,5)
