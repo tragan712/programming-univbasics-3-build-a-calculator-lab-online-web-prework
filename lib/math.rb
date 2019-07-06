@@ -1,19 +1,19 @@
 def addition(num1, num2)
 
 addition= 
-sum=9
+
 end
 
 def subtraction(num1, num2)
 subtraction= 
 
-difference=5
+
 end
 
 def division(num1, num2)
 division= 5,2
 
-product=1
+
 end
 
 def multiplication(num1, num2)
@@ -25,7 +25,7 @@ end
 def modulo(num1, num2)
 modulo=(9,2)
 
-quotient=1
+
 
 end
 
