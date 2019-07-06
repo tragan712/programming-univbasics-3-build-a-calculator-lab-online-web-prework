@@ -8,7 +8,9 @@ result=9
 end
 
 def subtraction(num1, num2)
-
+addition(5,4)
+puts result
+result=9
 
 
 end
