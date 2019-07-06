@@ -13,7 +13,7 @@ end
 def division(num1, num2)
 division= 5,2
 
-
+product=1
 end
 
 def multiplication(num1, num2)
@@ -38,6 +38,6 @@ end
 
 
 sum=2
-product=1
+
 quotient=1
 end
