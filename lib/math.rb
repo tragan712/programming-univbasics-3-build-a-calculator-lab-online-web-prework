@@ -32,9 +32,9 @@ division(50/2)
 def multiplication(num1, num2)
 
 multiplication(4*30)
-
-p product
 product=120
+p product
+
 
 end
 
@@ -49,7 +49,7 @@ end
 
 def square_root(num)
 Math.sqrt(81)
- puts square_root(9)
+ p square_root(9)
 
 
 
