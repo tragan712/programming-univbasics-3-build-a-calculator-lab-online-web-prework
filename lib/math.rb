@@ -2,7 +2,7 @@ def addition(num1,num2)
  
  sum=9 
 
-  puts sum
+p sum
 
 end
   
@@ -12,7 +12,7 @@ def subtraction(num1, num2)
 
  difference=5
 
- puts difference
+ p difference
 
 end
 
@@ -20,7 +20,7 @@ subtraction(10,5)
 
 def division(num1, num2)
 qotient=25
-puts qotient
+p qotient
 
 
 
@@ -38,6 +38,7 @@ p product
 
 end
 multiplication(4,30)
+
 def modulo(num1, num2)
 
 remainder=4
