@@ -1,7 +1,7 @@
 def addition(num1, num2)
 addition =(5+4)
 5+4
-puts sum
+ts pusum
 sum=9
 
 
