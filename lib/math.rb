@@ -8,7 +8,7 @@ result=9
 end
 
 def subtraction(num1, num2)
-addition(5,4)
+
 puts result
 result=9
 
@@ -16,7 +16,7 @@ result=9
 end
 
 def division(num1, num2)
-
+division(num1, num2)
 puts result
 result=9
 
