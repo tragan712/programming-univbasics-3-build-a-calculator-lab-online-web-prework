@@ -1,6 +1,6 @@
 def addition(num1, num2)
 
-addition= Math.add(5+4)
+addition= 
 sum=9
 end
 
