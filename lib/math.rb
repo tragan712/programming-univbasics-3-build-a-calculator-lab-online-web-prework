@@ -1,5 +1,6 @@
 def addition(num1, num2)
 addition =(5+4)
+5+4
 puts sum
 sum=9
 
@@ -26,7 +27,7 @@ end
 def multiplication(num1, num2)
 
 multiplication(4*30)
-1204*30=
+
 p product
 product=120
 
