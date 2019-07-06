@@ -6,7 +6,7 @@ end
 
 def subtraction(num1, num2)
 subtraction= 10,5
-
+sum=15
 
 end
 
@@ -24,8 +24,8 @@ end
 
 def modulo(num1, num2)
 modulo=(9,2)
-first_number=1
-second_number=1
+first_number=9
+second_number=2
 
 
 end
