@@ -24,7 +24,8 @@ end
 
 def modulo(num1, num2)
 modulo=(9,2)
-
+first_number=1
+second_number=1
 
 
 end
@@ -34,8 +35,7 @@ square_root(9)
 Math.sqrt
 
 end
-first_number=1
-second_number=1# Add your variables here
+# Add your variables here
 difference=0
 sum=2
 product=1
