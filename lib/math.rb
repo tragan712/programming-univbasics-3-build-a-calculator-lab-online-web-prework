@@ -47,7 +47,7 @@ def square_root(num)
 
 square_root(81)
 
-Math.sqrt(9)
+Math.sqrt()
 
 end
 
