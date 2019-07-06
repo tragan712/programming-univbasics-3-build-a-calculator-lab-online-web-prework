@@ -10,7 +10,7 @@ addition(4,5)
 end
 
 def subtraction(num1, num2)
-subtraction(10-5)
+subtraction(15)0-
  puts differance
  difference=5
 
