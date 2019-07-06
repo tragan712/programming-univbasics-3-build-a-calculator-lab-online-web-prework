@@ -34,8 +34,8 @@ end
 def modulo(num1, num2)
 
 modulo(34,5)
-p 
-result=4
+p remainder
+=4
 
 
 end
