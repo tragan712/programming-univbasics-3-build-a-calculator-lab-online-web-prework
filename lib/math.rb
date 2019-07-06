@@ -17,7 +17,7 @@ end
 
 def division(num1, num2)
 division(50/2)
-puts result
+p result=25
 result=
 
 
@@ -26,7 +26,7 @@ end
 def multiplication(num1, num2)
 
 multiplication(4,30)
-puts result
+p result
 result=120
 
 end
@@ -34,8 +34,8 @@ end
 def modulo(num1, num2)
 
 modulo(34,5)
-puts result
-result=
+p result
+result=4
 
 
 end
@@ -44,8 +44,7 @@ def square_root(num)
 
 square_root(81)
 
- result
-result=9
+ p result=9
 
 end
 
