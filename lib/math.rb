@@ -7,7 +7,7 @@ end
 def subtraction(num1, num2)
 subtraction= 10,5
 sum=15
-
+difference=0
 end
 
 def division(num1, num2)
@@ -36,7 +36,7 @@ Math.sqrt
 
 end
 
-difference=0
+
 sum=2
 product=1
 quotient=1
